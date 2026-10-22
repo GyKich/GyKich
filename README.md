@@ -14,7 +14,7 @@
 
 ---
 
-### 📬 Connect with me
+### 📬 Connect with me (I'll add more ways later)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rostislav-k)
 
 <!-- [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username) -->
