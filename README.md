@@ -1,5 +1,24 @@
-## Hi there 👋 I'm GyKich, nice to meet you!
-(I'll add something here, later.)
+## Hi there! My name is Rostislav, I'm:
+- 🎓 **Second-year IT Student**
+- 🛠 **Aspiring .NET / C# Backend Developer**
+- 🚀 **Currently building RESTful APIs using ASP.NET Core & Entity Framework**
+- 🎯 **Looking for Junior .NET Developer opportunities or Internships**
+
+---
+
+### 🛠 Tech Stack
+- **Language:** C# (.NET 10)
+- **Backend:** ASP.NET Core Web API, REST APIs
+- **Data & ORM:** EF Core, PostgreSQL
+- **Tools:** Git, Postman, Swagger, Docker (basics)
+
+---
+
+### 📬 Connect with me
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rostislav-k)
+
+<!-- [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username) -->
+
 
 <!--
 ## 🧪 Current Research & Sandbox
